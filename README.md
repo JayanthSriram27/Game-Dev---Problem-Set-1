@@ -1,4 +1,4 @@
-# Game-Dev---Problem-Set-1
+# Game-Dev-Problem-Set-1
 
 Description:
 - Use https://editor.p5js.org/ for real-time editing of the code.
